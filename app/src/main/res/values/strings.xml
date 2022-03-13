@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ObodoPMC</string>
+    <string name="email">Email</string>
+    <string name="start">Start</string>
+    <string name="connect">Connect</string>
+    <string name="name">Name</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="watts">Watts</string>
+    <string name="meters">Meters</string>
+    <string name="calories">Calories</string>
+    <string name="time">Time</string>
+    <string name="max_wattage">Max Wattage</string>
+    <string name="pm5_connector">Device List</string>
+</resources>
